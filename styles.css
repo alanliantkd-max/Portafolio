@@ -1,0 +1,89 @@
+
+/* Configuracion general */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Barra de navegacion */
+
+header {
+    background-color: #172d46;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+
+nav {
+    margin-top: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+/* Secciones */
+
+section {
+    background-color: white;
+    margin: 25px auto;
+    padding: 30px;
+    width: 85%;
+    border-radius: 10px;
+}
+
+/* Titulos */
+
+h2 {
+    color: #172d46;
+    margin-bottom: 20px;
+}
+
+h3 {
+    margin-bottom: 10px;
+}
+
+/* Parrafos */
+
+p {
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+/* Habilidades */
+
+ul {
+    padding-left: 25px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* Proyectos */
+
+.proyecto {
+    background-color: #e8eef5;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+}
+
+/* Pie de pagina */
+
+footer {
+    background-color: #172d46;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
